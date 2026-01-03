@@ -1,0 +1,27 @@
+# Crea el comentario 
+# http://python.org
+
+# Comentarios simple y con mas contexto
+"Empiezo mi Hola Mundo"
+"""Espero encontrar ayuda
+   de otras personas
+   afines a programacion"""
+
+# Variable
+feliz = Mi vida es la mejor
+lograre_mis_metas = Todo lo se que si
+
+# Constantes
+MI_VIDA = Mi vida
+
+# Variables con numeros 
+int = 25
+float = 0.256512
+while True:
+string = "Que bella es la vida"
+
+#Impresion
+nombre = "Python"
+saludo = "Hola"
+saludo_nombre = f "{saludo}" "{nombre}"
+  print (saludo_nombre)
