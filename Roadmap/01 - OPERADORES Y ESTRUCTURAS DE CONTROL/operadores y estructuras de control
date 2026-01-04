@@ -1,0 +1,78 @@
+# Crea ejercicios utilizando todos los tipos de operadores de Python
+#Aritmeticos
+n1 = 10
+n2 = 6
+print(n1+n2) #suma
+print(n1-n2) #resta
+print(n1*n2)  #multiplicacion
+print(n1/n2)  #division
+
+#Logicos  
+  # Se imprime Todo funciona
+luz = True
+tele_se_prende = True
+if luz and tele_se_prende
+print("Todo funciona")
+
+  # No se imprime nada
+luz = False
+tele_se_prende = False
+if luz or tele_se_prende
+print("Todo funciona")
+
+  # No se imprime nada
+luz = False 
+tele_se_prende = False
+if not luz and tele_se_prende
+print("Todo funciona")
+
+# IDe comparacion
+num = 5 
+if num == 5:
+  print ("True")
+
+if num >= 0:
+  print ("True")
+  else :
+  ("No existe este calculo")
+
+# Asignacion
+num = 6
+num += 8
+print(num)
+x = 10
+x -= 8
+print(x)
+
+# Identidad
+a = 5
+b = 4
+a is b
+print(a is b)
+a is not b
+print(a si not b)
+
+# Pertenencia
+partes_del_motor = ["embrague", "pistones", "cigüeñal", "valvulas"]
+  if "embrague" in partes_del_motor
+  print ("Esta pieza existe en el inventario")
+
+# Estructuras de control
+# Condicionales if, elif y else
+
+cardenal = 8
+  if cardenal >= 20:
+  print("Si existe")
+  elif cardenal <= 10:
+  print("Es menor")
+  else:
+  print ("No existe")
+
+# Iterativas: while y for
+buscar = 10
+for numero in range(11)
+  if numero == buscar:
+  print ("Encontre", buscar)
+  break
+else:
+  print("No lo encontre")
